@@ -60,7 +60,7 @@ sudo cat /var/lib/jenkins/secrets/initialAdminPassword
 ```
 
 Access Jenkins:
-http://<your-ec2-ip>:8080
+http://your-ec2-ip:8080
 
 ---
 
@@ -98,7 +98,7 @@ sonarqube:lts
 ```
 
 Access SonarQube:
-http://<your-ec2-ip>:9000
+http://your-ec2-ip:9000
 
 Default login:
 
