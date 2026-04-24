@@ -16,6 +16,8 @@ This project demonstrates an end-to-end DevSecOps CI/CD pipeline integrating cod
 * Docker and Docker Compose – Application deployment
 * AWS EC2 – Hosting environment
 
+<img width="1600" height="877" alt="WhatsApp Image 2026-04-23 at 10 05 13 PM" src="https://github.com/user-attachments/assets/690a9aae-b758-429d-8e01-298d3e9fea93" />
+
 ---
 
 ## Architecture
