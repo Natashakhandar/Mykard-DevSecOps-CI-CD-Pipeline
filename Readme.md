@@ -28,7 +28,7 @@ GitHub → Jenkins → SonarQube → OWASP Dependency Check → Trivy → Docker
 
 * Ubuntu (EC2 instance recommended)
 * Minimum 2 GB RAM (4 GB recommended for SonarQube)
-* Open ports: 22, 8080, 9000, 5000, 3000, 5173
+* Open ports: 22, 8080, 9000, 5000, 3000
 
 ---
 
@@ -271,7 +271,7 @@ curl http://localhost:5000
 Test frontend:
 
 ```bash
-curl http://localhost:5173
+curl http://localhost:3000
 ```
 
 ---
