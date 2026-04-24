@@ -260,10 +260,15 @@ pipeline {
 
 <img width="1600" height="373" alt="WhatsApp Image 2026-04-23 at 9 14 36 PM" src="https://github.com/user-attachments/assets/f20ab0c4-6836-424a-865c-2461c4ca2acd" />
 
+...
+
 <img width="1600" height="768" alt="WhatsApp Image 2026-04-23 at 9 14 06 PM" src="https://github.com/user-attachments/assets/cea77495-3357-4f54-ad74-73665506be0d" />
+
+...
 
 <img width="1600" height="775" alt="WhatsApp Image 2026-04-23 at 9 18 36 PM" src="https://github.com/user-attachments/assets/64968ba2-3d87-4165-b395-a31c2f728e04" />
 
+...
 
 ## Verification Commands
 
@@ -296,13 +301,22 @@ SonarQube is used to analyze code quality and detect bugs, vulnerabilities, and 
 
 
 ### Code Issues & Vulnerabilities
+
 <img width="1600" height="789" alt="WhatsApp Image 2026-04-23 at 9 24 23 PM" src="https://github.com/user-attachments/assets/23dd2de5-85c0-4002-a6ab-042ec9d2a704" />
+
+...
 
 <img width="1600" height="789" alt="WhatsApp Image 2026-04-23 at 9 24 23 PM" src="https://github.com/user-attachments/assets/b8766744-96ab-4c8c-b8f8-700c865f641e" />
 
+...
+
 <img width="1600" height="784" alt="WhatsApp Image 2026-04-23 at 9 27 13 PM" src="https://github.com/user-attachments/assets/f3b23afd-94a5-4450-ac58-6ca321dd1e17" />
 
+...
+
 <img width="1600" height="797" alt="WhatsApp Image 2026-04-23 at 9 19 20 PM" src="https://github.com/user-attachments/assets/14d373f8-b76b-489e-b61a-cdf91c856080" />
+
+...
 
 ---
 
@@ -330,6 +344,8 @@ SonarQube is used to analyze code quality and detect bugs, vulnerabilities, and 
 This project demonstrates how to integrate security into CI/CD pipelines, ensuring applications are secure, reliable, and production-ready before deployment.
 
 <img width="1600" height="736" alt="WhatsApp Image 2026-04-23 at 10 09 41 PM" src="https://github.com/user-attachments/assets/53fde1b8-ddc7-435b-afd0-4e680e8f763e" />
+
+...
 
 <img width="1600" height="748" alt="WhatsApp Image 2026-04-23 at 10 08 38 PM" src="https://github.com/user-attachments/assets/767f1886-bf2b-40ec-bb27-b9cf7baffe2a" />
 
