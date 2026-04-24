@@ -315,7 +315,8 @@ SonarQube is used to analyze code quality and detect bugs, vulnerabilities, and 
 
 ...
 
-<img width="1600" height="797" alt="WhatsApp Image 2026-04-23 at 9 19 20 PM" src="https://github.com/user-attachments/assets/14d373f8-b76b-489e-b61a-cdf91c856080" />
+<img width="457" height="209" alt="image" src="https://github.com/user-attachments/assets/aa6063eb-71bd-4880-ae18-a8e896f7ff24" />
+
 
 ...
 
